@@ -1,0 +1,19 @@
+{
+    "name": "francoischaumont/file-parsers",
+    "description": "Parse different types of files",
+    "authors": [
+        {
+            "name": "Francois Chaumont",
+            "email": "funcois@outlook.com",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "FC\\FileParsers\\": "src/"
+        }
+    }
+}
