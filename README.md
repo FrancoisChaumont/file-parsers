@@ -1,4 +1,4 @@
-# CSV - Read lines
+# FILE PARSERS - Read/parse files of various types
 
 ![GitHub release](https://img.shields.io/github/release/FrancoisChaumont/file-parsers.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/FrancoisChaumont/file-parsers/issues)
